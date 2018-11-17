@@ -87,7 +87,8 @@ $$\Phi = \frac{F_{m}}{R_{m}} = \frac{WI}{\sum R_{mi}}$$			$$F_{m}$$为磁动势	
 
 ### last
 
-<div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\电动机last.jpg" width="800px">
+<div align=left><img src="/picture/电动机last.jpg" width="800px">
+
 
 
 
