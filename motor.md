@@ -10,7 +10,8 @@
 
 ## 1.1.2总结控制系统的基本组成
 
-<div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\总结控制系统的基本组成.jpg" width="800px">
+<div align=left><img src="/picture/总结控制系统的基本组成.jpg" width="800px">
+
 
 ## 1.1.3自动控制元件的作用
 
@@ -62,22 +63,26 @@ $$\Phi = \frac{F_{m}}{R_{m}} = \frac{WI}{\sum R_{mi}}$$			$$F_{m}$$为磁动势	
 
 ### 电机内部示意图
 
-<div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\电机.jpg" width="800px">
+<div align=left><img src="/picture/电机.jpg" width="800px">
+
 
 ### 无换向器时
 
-<div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\无换向器.jpg" width="800px">
+<div align=left><img src="/picture/无换向器.jpg" width="800px">
+
 
 ### 有换向器时
-<div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\有换向器.jpg" width="800px">
+<div align=left><img src="/picture/有换向器.jpg" width="800px">
 感应电动势方向与电流方向相反(反电势)
+
 
 ### 发电机
 
-<div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\发电机.jpg" width="800px">
+<div align=left><img src="/picture/发电机.jpg" width="800px">
+
 
 ### 有换向器
-<div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\发电机有换向器.jpg" width="800px">
+<div align=left><img src="/picture/发电机有换向器.jpg" width="800px">
 ### last
 
 <div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\电动机last.jpg" width="800px">
@@ -90,8 +95,9 @@ $$\Phi = \frac{F_{m}}{R_{m}} = \frac{WI}{\sum R_{mi}}$$			$$F_{m}$$为磁动势	
 
 转子部分：电枢铁芯、电枢绕组、换向器
 
-<div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\电机实物.jpg" width="800px">
+<div align=left><img src="/picture/电机实物.jpg" width="800px">
 绕组
-<div align=left><img src="C:\Users\liu-i\Desktop\motor\picture\绕组.jpg" width="800px">
+<div align=left><img src="/picture/绕组.jpg" width="800px">
+
 
 
