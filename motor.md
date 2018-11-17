@@ -107,6 +107,46 @@ $$ \Phi = \frac{F_{m}}{R_{m}} = \frac{WI}{\sum R_{mi}} $$			$$ F_{m} $$为磁动
 <div align=left><img src="/picture/绕组.jpg" width="800px">
 
 
+## 1.2.4直流电机的磁场
+
+电动机空载状态：机械轴上不接任何机械负载。此时电枢电流非常小
+
+发电机空载状态：电源输出端不接任何电负载。此时电枢电流为零
+
+<div align=left><img src="/picture/空载.jpg" width="800px">
+
+
+空载磁场
+
+<div align=left><img src="/picture/空载磁场.jpg" width="800px">
+
+
+电动机的负载状态：机械轴上接机械负载，此时电枢电流随着负载的增大而增大
+
+发电机的负载状态：电源输出端接电负载，此时电枢电流随着电负载变化而变化
+
+负载磁场
+
+<div align=left><img src="/picture/负载磁场.jpg" width="800px">
+
+
+总磁场
+
+<div align=left><img src="/picture/总磁场.jpg" width="800px">
+
+
+电枢反应：负载时电枢磁场对气隙磁场的影响
+
+影响：使气隙磁场发生畸变
+
+​	考虑饱和，一个磁极下，增强的小于削弱的，总量减少，表现去磁性
+
+​	磁场等于零的位置偏离几何中性线，到物理中性线。表现磁场发生扭斜
+
+励磁方式：指直流电机的励磁线圈与电枢线圈的连接方式
+<div align=left><img src="/picture/励磁方式.jpg" width="800px">
+
+
 
 
 
