@@ -96,8 +96,10 @@ $$\Phi = \frac{F_{m}}{R_{m}} = \frac{WI}{\sum R_{mi}}$$			$$F_{m}$$为磁动势	
 转子部分：电枢铁芯、电枢绕组、换向器
 
 <div align=left><img src="/picture/电机实物.jpg" width="800px">
-绕组
+### 绕组
+
 <div align=left><img src="/picture/绕组.jpg" width="800px">
+
 
 
 
